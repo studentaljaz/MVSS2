@@ -1,6 +1,6 @@
 # MULTIMEDIJSKA ZGODBA - NAČRT
 
-[Spletna stran na githubu]([https://www.genome.gov/](https://studentaljaz.github.io/MVSS2/))
+[Spletna stran na Githubu](https://studentaljaz.github.io/MVSS2/)
 
 ## Tema in novičarska vrednost
 
