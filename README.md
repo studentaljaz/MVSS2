@@ -1,5 +1,7 @@
 # MULTIMEDIJSKA ZGODBA - NAČRT
 
+[Spletna stran na githubu]([https://www.genome.gov/](https://studentaljaz.github.io/MVSS2/))
+
 ## Tema in novičarska vrednost
 
 Izbrali smo temo “Mladi in stanovanjska stiska v Sloveniji”. Mladi v Sloveniji se soočajo z enim najvišjih indeksov stanovanjske nedostopnosti v EU — najemnine rastejo, plače pa ne sledijo. Zgodba je pomembna, ker zadeva praktično vsako mlado osebo v državi.
